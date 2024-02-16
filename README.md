@@ -40,7 +40,7 @@ It help to manage IoT from remote location gatways
 
 ![image](https://github.com/Saurabhkumarpandey9470/IoT-Cloud/assets/45974086/a78a2cf2-a243-4dd9-9e60-f5ee09038c21)
 
-Architecture Home Automation 
+# Architecture Home Automation 
 
 ![image](https://github.com/Saurabhkumarpandey9470/IoT-Cloud/assets/45974086/aeb76e63-d6dc-4a3e-9657-338e26854d99)
 
